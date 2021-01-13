@@ -258,6 +258,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 209)
+  jekyll (~> 3.9)
+  jekyll-gist (~> 1.5)
+  jekyll-seo-tag (~> 2.6)
+  jekyll-sitemap (~> 1.4)
 
 BUNDLED WITH
    2.2.4
