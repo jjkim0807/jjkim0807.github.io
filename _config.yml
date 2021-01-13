@@ -1,9 +1,9 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Jaejin's Blog
+tagline:             ''
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             'https://jjkim0807.github.io/'
+url:                 https://jjkim0807.github.io/
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
